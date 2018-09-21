@@ -1,0 +1,34 @@
+_repo: Observations-of-a-Naturalist-in-the-Pacific-Between-1896-and-1899-Volume-2-Plant-Dispersal_54889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guppy, H. B. (Henry Brougham)
+    alias: Guppy, Henry Brougham
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '41662'
+    url: http://www.gutenberg.org/2009/agents/41662
+description: v. 2. Plant-dispersal.
+gutenberg_issued: '2017-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Pacific Ocean'
+- !lcsh 'Geology -- Fiji -- Vanua Levu'
+- !lcsh 'Igneous rocks -- Fiji -- Vanua Levu'
+- !lcsh 'Igneous rocks'
+- !lcsh 'Seeds -- Dispersal'
+- !lcsh 'Natural history -- Fiji'
+- !lcsh 'Geology -- Fiji'
+- !lcsh 'Vanua Levu (Fiji) -- Description and travel'
+- !lcsh 'Phytogeography'
+- !lcc 'QH'
+- GITenberg
+title: "Observations of a Naturalist in the Pacific Between 1896 and 1899, Volume\
+  \ 2\r\nPlant-Dispersal"
+url: http://www.gutenberg.org/ebooks/54889
